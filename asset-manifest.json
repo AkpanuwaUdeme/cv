@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AkpanuwaUdeme/cv.git/static/css/main.e7639612.css",
+    "main.js": "/AkpanuwaUdeme/cv.git/static/js/main.48fff0c3.js",
+    "index.html": "/AkpanuwaUdeme/cv.git/index.html",
+    "main.e7639612.css.map": "/AkpanuwaUdeme/cv.git/static/css/main.e7639612.css.map",
+    "main.48fff0c3.js.map": "/AkpanuwaUdeme/cv.git/static/js/main.48fff0c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7639612.css",
+    "static/js/main.48fff0c3.js"
+  ]
+}
